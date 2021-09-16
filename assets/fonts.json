@@ -1,0 +1,47 @@
+[
+    {
+        "font_name": "Bolhu",
+        "credits": "Ayeshath Fadwa + Shahee Ilyas",
+        "link": "https://thaana.com/bolhu/",
+        "description": "Bolhu is a first attempt at creating a grotesk Thaana typeface utilizing rudimentary geometry and rounded apertures. It is a variable font that is also available in 9 weights for creating a versatile range of typographic textures and tones.",
+        "variants": [
+            {
+                "name": "ExtraLight",
+                "font_file": "assets/fonts/Bolhu-ExtraLight.woff2"
+            },
+            {
+                "name": "Light",
+                "font_file": "assets/fonts/Bolhu-Light.woff2"
+            },
+            {
+                "name": "Regular",
+                "font_file": "assets/fonts/Bolhu-Regular.woff2"
+            },
+            {
+                "name": "Medium",
+                "font_file": "assets/fonts/Bolhu-Medium.woff2"
+            },
+            {
+                "name": "SemiBold",
+                "font_file": "assets/fonts/Bolhu-SemiBold.woff2"
+            },
+            {
+                "name": "Bold",
+                "font_file": "assets/fonts/Bolhu-Bold.woff2"
+            },
+            {
+                "name": "ExtraBold",
+                "font_file": "assets/fonts/Bolhu-ExtraBold.woff2"
+            },
+            {
+                "name":"Black",
+                "font_file": "assets/fonts/Bolhu-Black.woff2"
+            },
+
+            {
+                "name":"GX",
+                "font_file": "assets/fonts/BolhuGX.woff2"
+            }
+        ]
+    }    
+]
