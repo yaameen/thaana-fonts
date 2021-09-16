@@ -1,0 +1,9 @@
+<div class="preview mb-10" [ngClass]='fontFamily' dir="rtl">
+    ހުށިޔާރު މުށި ހިޔަޅު ކަންނެތް ސޭޓުގެ ބޯމަތިން ފުންމާލީ ޕޯޗުގީޒު ދޫނި ޖޯޑުގެ ކައިވެންޏަށް ގަތް އޮޱަކުން
+</div>
+
+<div class="mb-4" [formGroup]='form'>
+    <select formControlName="variant" class="w-full">
+        <option [ngValue]='vat' *ngFor="let vat of font.variants">{{ vat.name}}</option>
+    </select>
+</div>
